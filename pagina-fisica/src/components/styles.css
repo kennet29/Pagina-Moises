@@ -1,0 +1,39 @@
+.vista-contenedor {
+  background-color: #1c1c2b;
+  color: #e0e0f0;
+  padding: 2rem;
+
+  max-width: 100%;
+ 
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+.vista-titulo {
+  font-size: 2.5rem;
+  color: #64b5f6;
+  margin-bottom: 1rem;
+}
+
+.vista-subtitulo {
+  font-size: 1.8rem;
+  color: #ffa726;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.vista-lista {
+  list-style-type: none;
+  padding: 0;
+  margin: 0 auto;
+  max-width: 100%;
+  text-align: left;
+}
+
+.vista-lista li {
+  background-color: #2a2a3d;
+  margin-bottom: 10px;
+  padding: 12px 16px;
+  border-left: 4px solid #64b5f6;
+  border-radius: 6px;
+}
