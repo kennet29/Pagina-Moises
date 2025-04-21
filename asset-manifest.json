@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Pagina-Moises/static/css/main.49adeedf.css",
-    "main.js": "/Pagina-Moises/static/js/main.7dfee5cd.js",
+    "main.js": "/Pagina-Moises/static/js/main.a2489f84.js",
     "static/js/453.234b9ce1.chunk.js": "/Pagina-Moises/static/js/453.234b9ce1.chunk.js",
     "static/media/ImagenF.svg": "/Pagina-Moises/static/media/ImagenF.f93cee1fb24e6165af3163ce03d44027.svg",
     "index.html": "/Pagina-Moises/index.html",
     "main.49adeedf.css.map": "/Pagina-Moises/static/css/main.49adeedf.css.map",
-    "main.7dfee5cd.js.map": "/Pagina-Moises/static/js/main.7dfee5cd.js.map",
+    "main.a2489f84.js.map": "/Pagina-Moises/static/js/main.a2489f84.js.map",
     "453.234b9ce1.chunk.js.map": "/Pagina-Moises/static/js/453.234b9ce1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.49adeedf.css",
-    "static/js/main.7dfee5cd.js"
+    "static/js/main.a2489f84.js"
   ]
 }
