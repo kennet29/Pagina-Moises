@@ -6,9 +6,8 @@ const Footer = () => {
   return (
     <footer className="footer-distributed">
 
-      {/* Sección izquierda */}
       <div className="footer-left">
-        <h3>Moises <span style={{ fontStyle: 'italic' }}>Baltodano</span></h3>
+        <h3>Milagros <span style={{ fontStyle: 'italic' }}> Sarai </span></h3>
         <br />
         <p className="footer-company-name">
           © 2024 <strong></strong>
